@@ -1,0 +1,7 @@
+numpy>=1.26.4,<2.0
+pickle-mixin==1.0.2
+streamlit>=1.23.1,<1.30
+seaborn>=0.12.0,<0.15
+pandas>=2.2.3,<3.0
+matplotlib>=3.8.0
+scikit-learn>=1.6.0,<2.0
